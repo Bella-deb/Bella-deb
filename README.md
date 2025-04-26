@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Bella-deb
+- 👋 Hi, I’m Zerge
 - 👀 I’m interested in creating things!
 - 🌱 I’m currently learning JavaScript & discord.js!
-- 📫 How to reach me @bella.js on Discord!
-- 😄 Pronouns: She/Her
+- 📫 How to reach me @zerge5757 on Discord!
+- 😄 Pronouns: They/Them
